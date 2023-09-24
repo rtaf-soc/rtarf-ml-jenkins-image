@@ -37,3 +37,4 @@ lighthouse-report
 cloudbees-folder
 script-security
 ws-cleanup
+pipeline-stage-view
